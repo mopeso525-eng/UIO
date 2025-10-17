@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PESO",
+  "description": "An AI-powered image generation and editing tool using Google's Gemini nano-banana model. Upload up to two images and use a text prompt to create new visual content.",
+  "requestFramePermissions": []
+}
